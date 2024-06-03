@@ -6,9 +6,11 @@ module.exports = {
     extend: {
       colors: {
         "blue-grey": {
-          900: "#0F172A",
-          700: "#334155",
+          100: "#F1F5F9",
+          300: "#CBD5E1",
           600: "#475569",
+          700: "#334155",
+          900: "#0F172A",
         },
 
         orange: {
@@ -21,6 +23,11 @@ module.exports = {
       },
       fontFamily: {
         Roboto: ["Roboto", "sans-serif"],
+      },
+      content: {
+        "tools-grey-blob": 'url("../src/assets/images/tools-blob-grey.svg")',
+        "tools-blob-left": 'url("../src/assets/images/tools-blob-left.svg")',
+        "tools-blob-right": 'url("../src/assets/images/tools-blob-right.svg")',
       },
     },
     container: {

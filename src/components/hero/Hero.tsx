@@ -53,7 +53,7 @@ const Hero = () => {
             </div>
           </div>
 
-          <div className="w-100 relative">
+          <div className="w-full relative">
             <div className="absolute top-0 right-[300px]">
               <ul className="list-none">
                 <li className="rounded-t-xl rounded-bl-xl rounded-br-sm bg-white drop-shadow-md py-2 px-4 mb-4">

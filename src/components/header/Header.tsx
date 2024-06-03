@@ -17,7 +17,7 @@ const Header = () => {
 
           <div className="flex items-center gap-12">
             <button>Login</button>
-            <button className="px-4 py-2 border-2 border-blue-grey-900 text-blue-grey-900 rounded hover:bg-blue-grey-900 hover:text-white rounded-lg">
+            <button className="px-4 py-2 border-2 border-blue-grey-900 text-blue-grey-900 hover:bg-blue-grey-900 hover:text-white rounded-lg">
               Sign Up Now
             </button>
           </div>
